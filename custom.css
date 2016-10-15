@@ -1,23 +1,29 @@
 html {
     background-image: url("http://community.extra-life.org/screenshots/monthly_2015_11/bluegridpattern_icons.jpg.7401d7fd31fcb931569e3a290f6f3c7d.jpg");
 }
+
 body {
     background-color: transparent;
 }
+
 .container {
     background-color: transparent;
 }
+
 .jumbotron {
     background-color: transparent;
     padding-top: 20px;
     padding-bottom: 10px;
     margin-bottom: 0px;
+    text-align: center;
+    color: #fff;
 }
+
 .custom-container {
     background-image: url("http://static.donordrive.com/themes/extralife2014/img/dot-bk.jpg");
     background-repeat: repeat;
-    font-family: 'Open Sans', sans-serif;
-    /*background-color: #eee;*/
+    font-family: 'Lato', sans-serif;
+
 }
 .custom-container h1 {
     font-size: 70px;
