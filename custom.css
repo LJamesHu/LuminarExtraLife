@@ -1,5 +1,5 @@
 html {
-    background-image: url("http://community.extra-life.org/screenshots/monthly_2015_11/bluegridpattern_icons.jpg.7401d7fd31fcb931569e3a290f6f3c7d.jpg");
+    background-image: url("images/ExtraLifeBlueBG.jpg");
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 }
 
 .custom-container {
-    background-image: url("http://static.donordrive.com/themes/extralife2014/img/dot-bk.jpg");
+    background-image: url("images/ExtraLifeDotBG.jpg");
     background-repeat: repeat;
     font-family: 'Lato', sans-serif;
 
