@@ -22,6 +22,7 @@ function initializeClock(id, endtime){
     clock.innerHTML = t.days + ' days ' + t.hours + ' hours ' + t.minutes + ' minutes ' + t.seconds + ' seconds';
     if(t.total<=0){
       clearInterval(timeinterval);
+      clock.innerHTML = 'LIVE';
     }
   },1000);
 }
